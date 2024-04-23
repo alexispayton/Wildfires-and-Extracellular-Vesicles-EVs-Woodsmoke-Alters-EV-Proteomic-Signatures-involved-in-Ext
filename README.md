@@ -7,3 +7,20 @@
 
 
 This script was generated to support the manuscript titled 'Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models' currently under review.
+
+# 1. Data Extraction
+- Extracting particle concentrations to compare between treatment groups (coculture and triculture) in a visualization later on
+
+# 2. PDF Data Visualization (Figure 3)
+- Figure of extracted PDF data visualizing unexposed and exposed tri-cultures and co-culture groups
+- Tested for differences between groups using ANOVA tests
+
+# 3. Proteomics Data Processing
+- Normalized, implemented background filters, imputed missing proteomics data, and removed sample outliers
+
+# 4. Group Distribution Analysis (Table S2 & Table S3)
+- Used t tests to determine compare protein abundance distributions between co-culture unexposed vs. exposed and tri-culture unexposed vs. exposed groups
+- Calculated overall log~2~ transformed abundances and stratified by set (co-culture and tri-culture)
+
+# 5. # Volcano Plot (Figure 4)
+- Visualizes significance (p adjusted value) and expression degree/direction (fold change) of proteins in both co and tri culture treatments
