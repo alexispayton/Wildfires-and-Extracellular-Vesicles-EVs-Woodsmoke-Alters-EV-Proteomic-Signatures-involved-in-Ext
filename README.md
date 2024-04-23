@@ -22,5 +22,5 @@ This script was generated to support the manuscript titled 'Wildfires and Extrac
 - Used t tests to determine compare protein abundance distributions between co-culture unexposed vs. exposed and tri-culture unexposed vs. exposed groups
 - Calculated overall log~2~ transformed abundances and stratified by set (co-culture and tri-culture)
 
-# 5. # Volcano Plot (Figure 4)
+# 5. Volcano Plot (Figure 4)
 - Visualizes significance (p adjusted value) and expression degree/direction (fold change) of proteins in both co and tri culture treatments
