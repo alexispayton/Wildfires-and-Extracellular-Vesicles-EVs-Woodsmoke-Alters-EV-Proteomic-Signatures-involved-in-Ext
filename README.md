@@ -23,4 +23,7 @@ This script was generated to support the manuscript titled 'Wildfires and Extrac
 - Calculated overall log~2~ transformed abundances and stratified by set (co-culture and tri-culture)
 
 # 5. Volcano Plot (Figure 4)
-- Visualizes significance (p adjusted value) and expression degree/direction (fold change) of proteins in both co and tri culture treatments
+- Visualizes significance (p adjusted value) and expression degree/direction (fold change) of proteins in both co and tri-culture treatments
+
+# 6. Hierarchical Clustering Heatmap (Figure ?)
+- Hiearchical clustering of of samples to see if exposure groups would group together based on scaled log~2~ protein expression
