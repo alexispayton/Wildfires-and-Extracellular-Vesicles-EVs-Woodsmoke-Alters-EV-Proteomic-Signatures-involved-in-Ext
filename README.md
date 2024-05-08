@@ -9,7 +9,7 @@
 This script was generated to support the manuscript titled 'Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models' currently under review.
 
 # 1. Data Extraction
-- Extracting particle concentrations to compare between treatment groups (coculture and triculture) in a visualization later on
+- Extracting particle concentrations to compare between treatment groups (co-culture and tri-culture) in a visualization later on
 
 # 2. PDF Data Visualization (Figure 3)
 - Figure of extracted PDF data visualizing unexposed and exposed tri-cultures and co-culture groups
